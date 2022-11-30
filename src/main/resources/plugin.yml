@@ -1,0 +1,6 @@
+name: RobotGui
+version: '${project.version}'
+main: fr.robotv2.robotgui.RobotGui
+api-version: 1.19
+authors: [ Robotv2 ]
+description: A gui lib for Robotv2
